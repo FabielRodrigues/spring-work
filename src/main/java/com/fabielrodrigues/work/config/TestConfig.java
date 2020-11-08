@@ -2,8 +2,6 @@ package com.fabielrodrigues.work.config;
 
 import java.util.Arrays;
 
-import java.util.Arrays;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
